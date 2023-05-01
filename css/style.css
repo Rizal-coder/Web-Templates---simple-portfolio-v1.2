@@ -1,0 +1,32 @@
+section {
+  min-height: 420px;
+}
+/* About */
+.pLeft,
+.pRight {
+  opacity: 0;
+  transform: translate(-60px, 0);
+  transform: rotate(-40deg);
+  transition: 0.5s;
+}
+.pRight {
+  transform: translate(60px, 0);
+  transform: rotate(40deg);
+}
+.pLeft.pMuncul,
+.pRight.pMuncul {
+  opacity: 1;
+  transform: translate(0, 0);
+  transform: rotate(0);
+}
+
+/* portfolio */
+.portfolio .card {
+  opacity: 0;
+  transform: translate(50px, 0);
+  transition: 0.5s;
+}
+.portfolio .card.muncul {
+  opacity: 1;
+  transform: translate(0, 0);
+}
