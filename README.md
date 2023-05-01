@@ -13,8 +13,8 @@ Tools & Framework:
 - HTML ( Markup Language )
 - CSS ( Stylesheet )
 - Javascript ( Programming Language )
-- Bootstrap version 3.3.7 ( https://getbootstrap.com/docs/3.3/ )
-- JQuery version 3.6.4 ( https://code.jquery.com/jquery-3.6.4.min.js )
+- Bootstrap version 4.6.2 ( https://getbootstrap.com/docs/4.6/getting-started/introduction/ )
+- JQuery version 3.5.1 ( https://code.jquery.com/jquery-3.5.1.min.js )
 - JQuery easing version 1.3 ( http://gsgd.co.uk/sandbox/jquery/easing/ )
 
 May be modified for learning and development purpose.
@@ -23,5 +23,5 @@ Follow my github, so i'm even more excited to make more interesting programs - K
 
 Thanks
 
-Demo simple portfolio v1 (codepen.io) : https://codepen.io/rizal-rohman/full/BaqpjLZ
+Demo simple portfolio v1.2 (codepen.io) : https://codepen.io/rizal-rohman/full/yLRzLwB
 -
